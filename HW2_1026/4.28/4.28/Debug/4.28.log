@@ -1,0 +1,11 @@
+﻿  4.28.cpp
+c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(44): error C2561: 'main': 函式必須傳回值
+  c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(5): note: 請參閱 'main' 的宣告
+c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(30): error C2360: 'hour' 的初始化會被 'case' 標籤略過
+  c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(18): note: 請參閱 'hour' 的宣告
+c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(35): error C2360: 'hour' 的初始化會被 'case' 標籤略過
+  c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(18): note: 請參閱 'hour' 的宣告
+c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(43): error C2361: 'item' 的初始化會被 'default' 標籤略過
+  c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(36): note: 請參閱 'item' 的宣告
+c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(43): error C2361: 'hour' 的初始化會被 'default' 標籤略過
+  c:\users\hsuch\onedrive\桌面\hw-112360211\hw2_1026\4.28\4.28\4.28.cpp(18): note: 請參閱 'hour' 的宣告
